@@ -66,8 +66,3 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-.video-container {
-  display: flex;
-  justify-content: center;
-  margin-top: 2rem;
-}
